@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Logan Rose
+- 🌱 I’m currently working as a COOP Student at Vectorsolv Corp.
+- 📫 send me an email at logan.rose0329@gmail.com
