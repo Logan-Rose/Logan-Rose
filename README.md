@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Logan Rose
-- 🌱 I’m currently focusing on my fourth year of school at uOttawa, taking courses in [Data Science](https://github.com/Logan-Rose/Data-Science-Project), [AI](https://github.com/Logan-Rose/ASL-transcriber).
+- 🌱 I’m currently focusing on my fourth year of school at uOttawa, taking courses in [Data Science](https://github.com/Logan-Rose/Data-Science-Project), and [AI](https://github.com/Logan-Rose/ASL-transcriber).
 - 💻 I am looking forward to my next COOP Work term at [Coveo](https://www.coveo.com/en)
 - 💥 I have been having lots of fun (...and procrastinating my school work by) working on [My Jeopardy Game](https://github.com/Logan-Rose/jeopardy-game)
 - 📫 Send me an email at logan.rose0329@gmail.com or connect with me on [Linkedin](https://www.linkedin.com/in/logan-rose/)
