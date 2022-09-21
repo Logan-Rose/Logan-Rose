@@ -1,7 +1,6 @@
-- 👋 Hi, I’m Logan Rose
-- 🌱 I’m a fourth year student at uOttawa
-- 💻 I am currently completing a COOP Work term at [Coveo](https://www.coveo.com/en)
-- This past semester I built a [Data Mart](https://github.com/Logan-Rose/world-bank-data-mart) using data from the world bank, and an [American Sign Language Transcriber](https://github.com/Logan-Rose/ASL-transcriber) using OpenCv and Tensorflow.
-- ✏️ Recently I have been working on improving my understanding of commonly used data structures and algorithms by completing [daily coding problems](https://github.com/Logan-Rose/daily-programming-practice)
-- 💥 Over the past few months, I have been having lots of fun (...and procrastinating my school work by) working on [My Jeopardy Game](https://github.com/Logan-Rose/jeopardy-game)
-- 📫 Send me an email at logan.rose0329@gmail.com or connect with me on [Linkedin](https://www.linkedin.com/in/logan-rose/)
+- 👋 Hi, I’m Logan!
+- 💻 I’m currently in my final semester at uOttawa and working as a Software Developer Consultant at [Coveo](https://www.coveo.com/en).
+- ✏️ This semester I am working on my [Undergraduate Honours Project](https://github.com/Logan-Rose/CSI4900), focusing on multi task learning with imbalance.
+- 👨‍🏫 I am currently working as a Teaching Assistant for SEG2105: Introduction to Software Engineering, helping students learn android app development and the core principles of software development.
+- 💥 I have been having lots of fun (...and procrastinating my school work by) working on [Tailor](https://github.com/Logan-Rose/tailor), a modular resume builder.
+- 📫 If you would like to work together, send me an email at logan.rose0329@gmail.com or connect with me on [Linkedin](https://www.linkedin.com/in/logan-rose/)!
