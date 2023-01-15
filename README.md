@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Logan!
-- 💻 I’m currently in my final semester at uOttawa and working as a Software Developer Consultant at [Coveo](https://www.coveo.com/en).
-- ✏️ This semester I am working on my [Undergraduate Honours Project](https://github.com/Logan-Rose/CSI4900), focusing on multi task learning with imbalance.
-- 👨‍🏫 I am currently working as a Teaching Assistant for SEG2105: Introduction to Software Engineering, helping students learn android app development and the core principles of software development.
-- 💥 I have been having lots of fun (...and procrastinating my school work by) working on [Tailor](https://github.com/Logan-Rose/tailor), a modular resume builder.
-- 📫 If you would like to work together, send me an email at logan.rose0329@gmail.com or connect with me on [Linkedin](https://www.linkedin.com/in/logan-rose/)!
+- Hi, I’m Logan!
+- I am a recent computer science graduate from uOttawa (Dec 2022)
+- I completed my [Undergraduate Honours Research Project](https://github.com/Logan-Rose/CSI4900), on the impact of oversampling in multi-task classification problems.
+- I am working as a Software Developer Consultant at [Coveo](https://www.coveo.com/en) in Montréal.
+- I recently published my personal website, feel free to check it out for a more complete picture of me: https://loganrose.dev
+- If you would like to work together, send me an email at logan.rose0329@gmail.com or connect with me on [Linkedin](https://www.linkedin.com/in/logan-rose/)!
